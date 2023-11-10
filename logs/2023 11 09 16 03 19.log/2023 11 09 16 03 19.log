@@ -1,0 +1,16 @@
+2023-11-09 16:03:20,657 matplotlib matplotlib data path: D:\Faisal\Projects\end_to_end_hd\hd_env\lib\site-packages\matplotlib-3.8.1-py3.9-win-amd64.egg\matplotlib\mpl-data
+2023-11-09 16:03:20,660 matplotlib CONFIGDIR=C:\Users\solat\.matplotlib
+2023-11-09 16:03:20,661 matplotlib interactive is False
+2023-11-09 16:03:20,661 matplotlib platform is win32
+2023-11-09 16:03:20,703 matplotlib CACHEDIR=C:\Users\solat\.matplotlib
+2023-11-09 16:03:20,705 matplotlib.font_manager Using fontManager instance from C:\Users\solat\.matplotlib\fontlist-v330.json
+2023-11-09 16:03:21,015 root Data Initiating Started
+2023-11-09 16:03:21,024 root Data Ingestion Completed
+2023-11-09 16:03:21,036 root Initiating Model Training
+2023-11-09 16:03:21,036 root Model Evaluation Started
+2023-11-09 16:03:25,971 root Report Collected
+2023-11-09 16:03:26,086 root Report Collected
+2023-11-09 16:03:26,135 root Report Collected
+2023-11-09 16:04:03,747 root Report Collected
+2023-11-09 16:04:07,407 root Report Collected
+2023-11-09 16:04:07,407 root Report Col {'RandomForestClassifier': 0.47413793103448276, 'KNeighborsClassifier': 0.014008620689655249, 'LogisticRegression': 0.5398706896551724, 'SVC': 0.5398706896551724, 'GradientBoostingClassifier': 0.07974137931034486}

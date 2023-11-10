@@ -1,0 +1,6 @@
+2023-11-09 14:09:37,733 matplotlib matplotlib data path: D:\Faisal\Projects\end_to_end_hd\hd_env\lib\site-packages\matplotlib-3.8.1-py3.9-win-amd64.egg\matplotlib\mpl-data
+2023-11-09 14:09:37,737 matplotlib CONFIGDIR=C:\Users\solat\.matplotlib
+2023-11-09 14:09:37,738 matplotlib interactive is False
+2023-11-09 14:09:37,738 matplotlib platform is win32
+2023-11-09 14:09:37,778 matplotlib CACHEDIR=C:\Users\solat\.matplotlib
+2023-11-09 14:09:37,780 matplotlib.font_manager Using fontManager instance from C:\Users\solat\.matplotlib\fontlist-v330.json

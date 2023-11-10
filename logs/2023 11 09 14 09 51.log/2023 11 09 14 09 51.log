@@ -1,0 +1,9 @@
+2023-11-09 14:09:52,233 matplotlib matplotlib data path: D:\Faisal\Projects\end_to_end_hd\hd_env\lib\site-packages\matplotlib-3.8.1-py3.9-win-amd64.egg\matplotlib\mpl-data
+2023-11-09 14:09:52,236 matplotlib CONFIGDIR=C:\Users\solat\.matplotlib
+2023-11-09 14:09:52,237 matplotlib interactive is False
+2023-11-09 14:09:52,238 matplotlib platform is win32
+2023-11-09 14:09:52,279 matplotlib CACHEDIR=C:\Users\solat\.matplotlib
+2023-11-09 14:09:52,281 matplotlib.font_manager Using fontManager instance from C:\Users\solat\.matplotlib\fontlist-v330.json
+2023-11-09 14:09:52,575 root Data Initiating Started
+2023-11-09 14:09:52,584 root Data Ingestion Completed
+2023-11-09 14:09:52,596 root Initiating Model Training
